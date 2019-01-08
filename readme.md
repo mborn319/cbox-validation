@@ -10,7 +10,7 @@ Apache License, Version 2.0.
 ## IMPORTANT LINKS
 - https://github.com/coldbox-modules/cbox-validation
 - https://github.com/coldbox-modules/cbox-validation/wiki
-- https://forgebox.io/view/validation
+- https://forgebox.io/view/cbvalidation
 
 ## SYSTEM REQUIREMENTS
 - Lucee 4.5+
